@@ -26,7 +26,7 @@ Restore `Module1.bas` from `Module1.bas.example` (rename) before building; crede
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/NWN Include Documenter`.
+Working copy from my Historical Dev folder `VB/Old/NWN Include Documenter`.
 Documents Bioware Neverwinter Nights NWScript API; XML header attributes Dave Robinson, 27 July 2002.
 
 ## License
